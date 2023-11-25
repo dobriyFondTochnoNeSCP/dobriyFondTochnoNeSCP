@@ -1,12 +1,12 @@
 - fond scp
 - https://drive.google.com/drive/folders/13ZN_MFUvRtWi5VePhDKlVqp-C0jGdZz3
-[Ссылка]
+
 Google Диск: вход в систему
 https://drive.google.com/drive/folders/13ZN_MFUvRtWi5VePhDKlVqp-C0jGdZz3
-Vitaliy Abramov - главный в проекте, разработчик
-Andrey Smitnov - кодер, разработчик blueprint
-Nikita Razvalov- дизайнер, создание моделей
-Dmitriy Zhurin- актер озвучки, коллизионер.
+- Vitaliy Abramov - главный в проекте, разработчик
+- Andrey Smitnov - кодер, разработчик blueprint
+- Nikita Razvalov- дизайнер, создание моделей
+- Dmitriy Zhurin- актер озвучки, коллизионер.
 - vk: https://vk.me/join/AJQ1d1xEVCnoI_FMv8oaZBYgm
 
 
